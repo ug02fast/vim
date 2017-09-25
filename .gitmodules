@@ -1,6 +1,3 @@
 [submodule "pack/start/vim-surround"]
 	path = pack/start/vim-surround
 	url = https://github.com/tpope/vim-surround
-[submodule "vim-surround"]
-	path = vim-surround
-	url = https://github.com/tpope/vim-surround
