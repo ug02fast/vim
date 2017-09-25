@@ -1,3 +1,6 @@
 [submodule "pack/start/vim-surround"]
 	path = pack/start/vim-surround
 	url = https://github.com/tpope/vim-surround
+[submodule "pack/ug02fast/start/vim-vue"]
+	path = pack/ug02fast/start/vim-vue
+	url = https://github.com/posva/vim-vue
