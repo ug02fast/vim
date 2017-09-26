@@ -7,3 +7,6 @@
 [submodule "pack/ug02fast/start/vim-surround"]
 	path = pack/ug02fast/start/vim-surround
 	url = https://github.com/tpope/vim-surround
+[submodule "pack/ug02fast/start/ale"]
+	path = pack/ug02fast/start/ale
+	url = https://github.com/w0rp/ale

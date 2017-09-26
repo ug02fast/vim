@@ -9,6 +9,16 @@ nnoremap <leader>f 1z=
 nnoremap <leader>s :set spell!
 vnoremap . :norm.<CR>
 
+set number
 set expandtab
 set tabstop=2
 set shiftwidth=2
+set splitright
+set splitbelow
+
+" TODO: Add eslint support somehow.
+
+" Ale/eslint
+let g:ale_linters = {
+  'javascript': ['eslint'],
+}
