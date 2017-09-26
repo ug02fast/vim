@@ -10,3 +10,15 @@
 [submodule "pack/ug02fast/start/ale"]
 	path = pack/ug02fast/start/ale
 	url = https://github.com/w0rp/ale
+[submodule "pack/ug02fast/start/gruvbox"]
+	path = pack/ug02fast/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "pack/ug02fast/start/vim-airline"]
+	path = pack/ug02fast/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/ug02fast/start/vim-gitgutter"]
+	path = pack/ug02fast/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/ug02fast/start/vim-fugitive"]
+	path = pack/ug02fast/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
