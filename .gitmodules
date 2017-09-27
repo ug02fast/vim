@@ -22,3 +22,6 @@
 [submodule "pack/ug02fast/start/vim-fugitive"]
 	path = pack/ug02fast/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/ug02fast/start/nerdcommenter"]
+	path = pack/ug02fast/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
