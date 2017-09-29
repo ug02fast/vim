@@ -9,10 +9,11 @@ nnoremap <leader>f 1z=
 nnoremap <leader>s :set spell!
 vnoremap . :norm.<CR>
 
-colorscheme gruvbox
+colorscheme dracula 
 set nofixendofline
-set background=dark
+autocmd FileType vue syntax sync fromstart
 set number
+set incsearch
 set expandtab
 set tabstop=2
 set shiftwidth=2

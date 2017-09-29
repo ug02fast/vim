@@ -25,3 +25,9 @@
 [submodule "pack/ug02fast/start/nerdcommenter"]
 	path = pack/ug02fast/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
+[submodule "pack/ug02fast/start/vim-colors-solarized"]
+	path = pack/ug02fast/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "pack/ug02fast/start/dracula"]
+	path = pack/ug02fast/start/dracula
+	url = https://github.com/dracula/vim.git
